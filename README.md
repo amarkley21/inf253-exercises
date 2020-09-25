@@ -1,2 +1,2 @@
 # INF253 Exercises
-A sample edit.
+A simple edit.
