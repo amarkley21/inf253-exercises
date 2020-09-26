@@ -1,12 +1,14 @@
 body {
-  background-color: #e5e5e5;
-  font-family: arial, sans-serif;
-}
+	  background-color: #e5e5e5;
+	  font-family: arial, sans-serif;
+	}
 
-h1, h2 {
-  color: #f77f00;
-}
 
-a {
-  color: #48bfe3;
-}
+	h1, h2 {
+	  color: #f77f00;
+	}
+
+
+	a {
+	  color: #48bfe3;
+	}
