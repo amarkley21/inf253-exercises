@@ -36,7 +36,7 @@ body {
 	}
 
 img {
-	maw-width: 100%;
+	max-width: 100%;
 	height: auto;
 }
 
