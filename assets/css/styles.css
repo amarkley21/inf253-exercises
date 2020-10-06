@@ -4,14 +4,6 @@ body {
 		color: #302F2F;
 	}
 
-	.wrapper {
-		background: #ffffff;
-		width: 92%;
-		max-width: 800px;
-		margin: 0 auto;
-		padding: 12px 20px;
-	}
-
 	h1, h2 {
 	  color: #f77f00;
 	}
