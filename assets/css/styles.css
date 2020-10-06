@@ -12,6 +12,15 @@ body {
 		padding: 12px 20px;
 	}
 
+	h1 {
+		margin-bottom: .5em;
+	}
+
+	h2 {
+		margin-bottom: .25em;
+		margin-top: 1em;
+	}
+
 	h1, h2 {
 	  color: #f77f00;
 	}
@@ -25,10 +34,12 @@ body {
 
 	.image {
 		text-align: center;
+		margin: 2em 0;
 	}
 
 	.caption {
 		font-style: italic;
+		margin-top: .25em;
 	}
 
 	a {
@@ -42,4 +53,9 @@ img {
 
 ul {
 	padding-left: 20px;
+	margin-top: 8px;
+}
+
+p {
+	line-height: 1.4em;
 }
