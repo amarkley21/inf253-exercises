@@ -22,7 +22,7 @@ body {
 	}
 
 	h1, h2 {
-	  color: #f77f00;
+	  color: #003DA5;
 	}
 
 	blockquote {
@@ -62,7 +62,7 @@ p {
 
 header {
 	background-image: url(../images/so-white.png);
-	border-bottom: 2px solid #d2d2d2;
+	border-bottom: 2px solid #003DA5;
 	text-align: center;
 }
 
