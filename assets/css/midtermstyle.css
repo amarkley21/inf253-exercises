@@ -19,6 +19,7 @@ body {
 	h2 {
 		margin-bottom: .25em;
 		margin-top: 1em;
+		font-size: 30;
 	}
 
 	h1, h2 {
@@ -47,28 +48,30 @@ body {
 	  color: #48bfe3;
 	}
 
-img {
-	max-width: 100%;
-	height: auto;
-}
+	img {
+		max-width: 100%;
+		height: auto;
+	}
 
-ul {
-	padding-left: 20px;
-	margin-top: 8px;
-}
+	ul {
+		padding-left: 20px;
+		margin-top: 8px;
+		font-size: 18;
+	}
 
-p {
-	line-height: 1.4em;
-}
+	p {
+		line-height: 1.4em;
+		font-size: 18;
+	}
 
-header {
-	background-image: url(../images/so-white.png);
-	border-bottom: 2px solid #003DA5;
-	text-align: center;
-}
+	header {
+		background-image: url(../images/so-white.png);
+		border-bottom: 2px solid #003DA5;
+		text-align: center;
+	}
 
-footer {
-	text-align: center;
-	padding: 30px 20px;
-	border-top: 2px solid #d2d2d2;
-}
+	footer {
+		text-align: center;
+		padding: 30px 20px;
+		border-top: 2px solid #d2d2d2;
+	}
