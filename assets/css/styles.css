@@ -75,6 +75,10 @@ header {
 	padding: 30px 20px;
 }
 
+header.wrapper {
+	padding: 30px 20px;
+}
+
 footer {
 	text-align: center;
 	padding: 30px 20px;
