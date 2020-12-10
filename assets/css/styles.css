@@ -89,7 +89,6 @@ aside.h2 {
 	font-size: 1.4rem;
 }
 
-@media all and (min-width: 920px){
 	article, aside {
 		float: left;
 	}
