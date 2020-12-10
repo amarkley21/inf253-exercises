@@ -20,6 +20,10 @@ body {
 		margin-bottom: .5em;
 	}
 
+	h1#page-title {
+		margin: 0;
+	}
+
 	h2 {
 		margin-bottom: .25em;
 		margin-top: 1em;
@@ -68,12 +72,21 @@ header {
 	background-image: url(../images/dot-grid.png);
 	border-bottom: 2px solid #d2d2d2;
 	text-align: center;
+	padding: 30px 20px;
 }
 
 footer {
 	text-align: center;
 	padding: 30px 20px;
 	border-top: 2px solid #d2d2d2;
+}
+
+article {
+	padding-top: 14px;
+}
+
+aside.h2 {
+	font-size: 1.4rem;
 }
 
 @media all and (min-width: 920px){
