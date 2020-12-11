@@ -89,7 +89,7 @@ footer {
 	aside {
 		width: 25%;
 	}
-	aside h2:first-child {
+	aside h3:first-child {
 		margin-top: 14px;
 	}
 }
