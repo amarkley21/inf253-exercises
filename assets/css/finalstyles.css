@@ -6,7 +6,6 @@ body {
 	  background-color: #e5e5e5;
 	  font-family: arial, sans-serif;
 		color: #302F2F;
-		font-size: 22;
 	}
 
 	.wrapper {
@@ -71,8 +70,8 @@ body {
 	}
 
 	p {
-		line-height: 1.4em;
-		font-size: 18;
+		line-height: 1.5em;
+		font-size: 22;
 	}
 
 	header {
