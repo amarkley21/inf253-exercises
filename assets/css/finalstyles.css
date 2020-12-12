@@ -56,22 +56,22 @@ body {
 	}
 
 	ul {
-		padding-left: 20px;
-		margin-top: 8px;
-		font-size: 15;
-		line-height: 1.5em;
+		padding-left: 25px;
+		margin-top: 15px;
+		font-size: 14;
+		line-height: 1.55em;
 	}
 
 	ol {
-		padding-left: 20px;
-		margin-top: 8px;
-		font-size: 15;
+		padding-left: 25px;
+		margin-top: 15px;
+		font-size: 14;
 		line-height: 1.5em;
 	}
 
 	p {
 		line-height: 1.5em;
-		font-size: 22;
+		font-size: 17;
 	}
 
 	header {
